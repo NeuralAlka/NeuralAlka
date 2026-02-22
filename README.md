@@ -1,26 +1,29 @@
-# 👋 Hi there! I'm Alka Dwivedi
+# 👋 Hi, I'm Alka
 
-🎓 B.Tech AI & ML Student at LNCT  
-💡 Passionate about frontend development and artificial intelligence  
-🎨 I love building clean, modern UIs using HTML and CSS  
-🛠️ Currently learning React.js and improving my DSA  
-📸 Projects: Spotify Clone, Photography Website  
-📝 Presented a research paper at ICEHAIDS 2024  
-🌱 Always open to learning, collaborating, and growing!
+🚀 Full-Stack Developer | AI & ML Student  
+🎯 Focused on building scalable backend systems & cracking top tech placements  
 
----
+## 🔥 Current Focus
+- Data Structures & Algorithms (Placement preparation)
+- Backend development with Node.js & Express
+- System design fundamentals
 
-## 💻 Tech Stack
-- HTML, CSS, JavaScript
-- C++, OOPs
-- Git, GitHub, VS Code
-- Figma (UI/UX design)
+## 🛠️ Tech Stack
+- JavaScript | Node.js | Express.js
+- MongoDB | Mongoose
+- EJS | Bootstrap | CSS
+- Git | GitHub | Render | Cloudinary
+- C++ (DSA & OOP)
 
----
+## 🚀 Featured Project
+### 🌍 Wanderlust – Full Stack Travel Platform
+- MVC architecture
+- Authentication & authorization
+- Image upload (Cloudinary)
+- MongoDB Atlas integration
+- Deployed on Render
 
-## 📫 Let's Connect
-- 📧 Email: alka.dwivedi@email.com
-- 🌐 LinkedIn: [linkedin.com/in/alka-dwivedi2027](https://linkedin.com/in/alka-dwivedi2027)
-- 💻 GitHub Projects: [NeuralAlka](https://github.com/NeuralAlka)
+🔗 Live Demo: [https://wanderlust-nrut.onrender.com](https://wanderlust-nrut.onrender.com/listings)
 
-
+## 📈 2026 Goal
+Secure a position in a top MNC through strong DSA + backend expertise.
